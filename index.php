@@ -22,7 +22,10 @@
 0.0.1 /03.01.2021/
   Tohle je zkouška úplně nového a prázdného projektu. Tady se můžeme učit přidávat prvky společně a zkoušet si je načítat.
    začneme jednoduchými komentáři, které si označíme číslem a časovým razítkem. Potom si můžeme zkoušet vracet se v historii.
-
+<div>
+    0.0.2 /03.01.2021/
+    Přidal jsem taky jeden jednodychý komentář a zkusím ho odeslat na server. Snad se to podaří.
+</div>
 </body>
 
 </html>
