@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <!--Vytvoril: Jindrich Psenicny-->
+<!-- Komentar pridal Martin-->
 <html lang="cs-cz">
 <head>
 
