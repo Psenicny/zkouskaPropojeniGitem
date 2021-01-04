@@ -63,7 +63,8 @@
   </div>
 
   <div class="item7">
-    <img src="img/printscreen.jpg" alt="snímek obrazovky" style="width:500px;height:250px;">
+    0.0.7 /04.01.2021/
+    <img src="img/printscreen.jpg" alt="snímek obrazovky" style="width:900px;height:400px;">
   </div>
 
 </div>

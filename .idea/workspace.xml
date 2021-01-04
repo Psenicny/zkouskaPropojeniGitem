@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02cfe07a-49a8-4772-9842-0ff2594c9f48" name="Default Changelist" comment="branch &quot;develop&quot; a grid se stylem" />
+    <list default="true" id="02cfe07a-49a8-4772-9842-0ff2594c9f48" name="Default Changelist" comment="branch &quot;develop&quot; a grid se stylem">
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +76,7 @@
       <updated>1609678779253</updated>
       <workItem from="1609678780324" duration="472000" />
       <workItem from="1609734001310" duration="1063000" />
+      <workItem from="1609752424219" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="zatím je přidání dalšího komentáře s popisem postupu. Příště už můžeme zkusit složitější věci (přidání souboru, nebo stylu)">
       <created>1609733603878</created>
@@ -88,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609752033988</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dodatečný commit v0.0.6">
+      <created>1609752512039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609752512039</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zatím je přidání dalšího komentáře s popisem postupu. Příště už můžeme zkusit složitější věci (přidání souboru, nebo stylu)" />
     <MESSAGE value="branch &quot;develop&quot; a grid se stylem" />
-    <option name="LAST_COMMIT_MESSAGE" value="branch &quot;develop&quot; a grid se stylem" />
+    <MESSAGE value="dodatečný commit v0.0.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodatečný commit v0.0.6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="174" key="#CLI_Interpreters" timestamp="1609749055733">
