@@ -7,3 +7,33 @@
     color: white;
     margin-top: 10px;
 }
+
+/*
+ *  jednoduchý grid
+ */
+.item1 { grid-area: first; }
+.item2 { grid-area: second; }
+.item3 { grid-area: third; }
+.item4 { grid-area: fourth; }
+.item5 { grid-area: fifth; }
+.item6 { grid-area: sixth; }
+.item7 { grid-area: seventh; }
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+    'first first first first first first second second second second second second'
+    'third third third third third third fourth fourth fourth fourth fourth fourth'
+    'seventh seventh seventh seventh seventh seventh fifth fifth fifth fifth fifth fifth'
+    'seventh seventh seventh seventh seventh seventh sixth sixth sixth sixth sixth sixth';
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}

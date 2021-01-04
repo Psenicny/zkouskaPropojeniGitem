@@ -18,32 +18,55 @@
 </head>
 
 <body>
+<div class="grid-container">
+  <div class="item1">
+    0.0.1 /03.01.2021/
+    Tohle je zkouška úplně nového a prázdného projektu. Tady se můžeme učit přidávat prvky společně a zkoušet si je načítat.
+    začneme jednoduchými komentáři, které si označíme číslem a časovým razítkem. Potom si můžeme zkoušet vracet se v historii.
+  </div>
 
-0.0.1 /03.01.2021/
-  Tohle je zkouška úplně nového a prázdného projektu. Tady se můžeme učit přidávat prvky společně a zkoušet si je načítat.
-   začneme jednoduchými komentáři, které si označíme číslem a časovým razítkem. Potom si můžeme zkoušet vracet se v historii.
-<div class="hm_comment">
-    <div class="hm_comment_time"> 0.0.2 /03.01.2021/</div>
-    Přidal jsem taky jeden jednodychý komentář a zkusím ho odeslat na server. Snad se to podaří.
+  <div class="item2">
+    <div class="hm_comment">
+        <div class="hm_comment_time"> 0.0.2 /03.01.2021/</div>
+        Přidal jsem taky jeden jednodychý komentář a zkusím ho odeslat na server. Snad se to podaří.
+    </div>
+  </div>
+
+  <div class="item3">
+    0.0.3 /04.01.2021/
+    Popíšu teď co jsem přesně udělal a jaký byl výsledek: Nedřív jsem se podíval na GitHub, kde jsem viděl, že jsi něco přidal.
+    Tu změnu jsem si prohlédl, ale neprováděl žádnou akci. Vrátil jsem se do PHP a v záložce VCS jsme kliknul na Update Project.
+    Zeptalo se mě to "merge incoming changes into the current branche", to jsem odkliknul. Potom se mi ukázala taková velká tabulka
+    ve které bylo možné porovnat původní stav s tím vzdáleným a znovu se mě to zeptalo jestli chci aplikovat změny.
+    Když jsem to potvrdil, tak se mi tvůj komentář zobrazil. Tak takhle ok.
+  </div>
+
+  <div class="item4">
+    0.0.4 /04.01.2021/
+    Teď jsem se naučil, jak se dá procházet historií. Vůbec nepotřebuješ otvírat GitHub, vše se ovládá z IDE.
+    Záložka VCS => GIT => Show History. Otevře se dole okno se seznamem všech změn a vpravo se ty změny zobrazí fyzicky.
+    Kliknutím na konkrétní změnu se ukáže čeho se týkala. Kliknutím pravým tlačítkem na konkrétní změnu se rozbalí nabídka
+    a v ní je příkaz Get. Ten zaktualizuje sobory do požadovaného stavu. DOBRÝ :)
+  </div>
+
+  <div class="item5">
+    <div class="hm_comment">
+      <div class="hm_comment_time">0.0.5 /04.01.2021/</div>
+      Tak já si musím pořádně znamenat, jak to dělám. Já jsem použil pro aktualizaci projektu nabídku "Pull" ze sekce "Git". Asi to máš pod tím "VCS".
+      Já mám "Git" Jako hlavní nabídku.</div>
+  </div>
+
+  <div class="item6">
+    0.0.6 /04.01.2021/
+    Dobrý, zatím vše funguje i se stylem :) Teď zkusím vytvořit větev "develop" a do ní pošlu nějaké změny. Udělám lehký grid a pošlu ti tam printscreen VSC/GIT
+    jak to mám já.
+  </div>
+
+  <div class="item7">
+    <img src="img/printscreen.jpg" alt="snímek obrazovky" style="width:500px;height:250px;">
+  </div>
+
 </div>
-<p>
-  0.0.3 /04.01.2021/
-  Popíšu teď co jsem přesně udělal a jaký byl výsledek: Nedřív jsem se podíval na GitHub, kde jsem viděl, že jsi něco přidal.
-  Tu změnu jsem si prohlédl, ale neprováděl žádnou akci. Vrátil jsem se do PHP a v záložce VCS jsme kliknul na Update Project.
-  Zeptalo se mě to "merge incoming changes into the current branche", to jsem odkliknul. Potom se mi ukázala taková velká tabulka
-  ve které bylo možné porovnat původní stav s tím vzdáleným a znovu se mě to zeptalo jsetli chci aplikovat změny.
-  Když jsem to potvrdil, tak se mi tvůj komentář zobrazil. Tak takhle ok.
-</p>
-<p>
-  0.0.4 /04.01.2021/
-  Teď jsem se naučil, jak se dá procházet historií. Vůbec nepotřebuješ otvírat GitHub, vše se ovládá z IDE.
-  Záložka VCS => GIT => Show History. Otevře se dole okno se seznamem všech změn a vpravo se ty změny zobrazí fyzicky.
-  Kliknutím na konkrétní změnu se ukáže čeho se týkala. Kliknutím pravým tlačítkem na konkrétní změnu se rozbalí nabídka
-  a v ní je příkaz Get. Ten zaktualizuje sobory do požadovaného stavu. DOBRÝ :)
-</p>
-<div class="hm_comment">
-    <div class="hm_comment_time">0.0.5 /04.01.2021/</div>
-    Tak já si musím pořádně znamenat, jak to dělám. Já jsem použil pro aktualizaci projektu nababídku "Pull" ze sekce "Git". Asi to máš pod tím "VCS". Já mám "Git" Jako hlavní nabídku.</div>
 </body>
 
 </html>
