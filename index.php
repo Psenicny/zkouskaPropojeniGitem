@@ -27,12 +27,19 @@
     Přidal jsem taky jeden jednodychý komentář a zkusím ho odeslat na server. Snad se to podaří.
 </div>
 <p>
-  0.0.3 /04.01.2010/
+  0.0.3 /04.01.2021/
   Popíšu teď co jsem přesně udělal a jaký byl výsledek: Nedřív jsem se podíval na GitHub, kde jsem viděl, že jsi něco přidal.
   Tu změnu jsem si prohlédl, ale neprováděl žádnou akci. Vrátil jsem se do PHP a v záložce VCS jsme kliknul na Update Project.
   Zeptalo se mě to "merge incoming changes into the current branche", to jsem odkliknul. Potom se mi ukázala taková velká tabulka
   ve které bylo možné porovnat původní stav s tím vzdáleným a znovu se mě to zeptalo jsetli chci aplikovat změny.
   Když jsem to potvrdil, tak se mi tvůj komentář zobrazil. Tak takhle ok.
+</p>
+<p>
+  0.0.4 /04.01.2021/
+  Teď jsem se naučil, jak se dá procházet historií. Vůbec nepotřebuješ otvírat GitHub, vše se ovládá z IDE.
+  Záložka VCS => GIT => Show History. Otevře se dole okno se seznamem všech změn a vpravo se ty změny zobrazí fyzicky.
+  Kliknutím na konkrétní změnu se ukáže čeho se týkala. Kliknutím pravým tlačítkem na konkrétní změnu se rozbalí nabídka
+  a v ní je příkaz Get. Ten zaktualizuje sobory do požadovaného stavu. DOBRÝ :)
 </p>
 </body>
 
