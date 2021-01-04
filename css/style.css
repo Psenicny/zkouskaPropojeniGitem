@@ -1,0 +1,9 @@
+.hm_comment{
+    background-color: aliceblue;
+}
+
+.hm_comment_time{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}

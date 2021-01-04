@@ -22,8 +22,8 @@
 0.0.1 /03.01.2021/
   Tohle je zkouška úplně nového a prázdného projektu. Tady se můžeme učit přidávat prvky společně a zkoušet si je načítat.
    začneme jednoduchými komentáři, které si označíme číslem a časovým razítkem. Potom si můžeme zkoušet vracet se v historii.
-<div>
-    0.0.2 /03.01.2021/
+<div class="hm_comment">
+    <div class="hm_comment_time"> 0.0.2 /03.01.2021/</div>
     Přidal jsem taky jeden jednodychý komentář a zkusím ho odeslat na server. Snad se to podaří.
 </div>
 <p>
@@ -41,6 +41,9 @@
   Kliknutím na konkrétní změnu se ukáže čeho se týkala. Kliknutím pravým tlačítkem na konkrétní změnu se rozbalí nabídka
   a v ní je příkaz Get. Ten zaktualizuje sobory do požadovaného stavu. DOBRÝ :)
 </p>
+<div class="hm_comment">
+    <div class="hm_comment_time">0.0.5 /04.01.2021/</div>
+    Tak já si musím pořádně znamenat, jak to dělám. Já jsem použil pro aktualizaci projektu nababídku "Pull" ze sekce "Git". Asi to máš pod tím "VCS". Já mám "Git" Jako hlavní nabídku.</div>
 </body>
 
 </html>
