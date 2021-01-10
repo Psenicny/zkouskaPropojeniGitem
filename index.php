@@ -78,6 +78,9 @@
     <div class="hm_comment">
         <div class="hm_comment_time">0.0.10 /10.01.2021/</div>
         Další pokus s prací s GITem, pro ověření práce s větví...🤞😢</div>
+    <p>
+      Zkouška opačného směru tzn. od Jinřich k Martin
+    </p>
 </body>
 
 </html>
