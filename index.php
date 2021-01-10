@@ -72,6 +72,10 @@
     <div class="hm_comment">
         <div class="hm_comment_time">0.0.8 /06.01.2021/</div>
         A já to teď celé rozhodím. 😎</div>
+    <div class="hm_comment">
+        <div class="hm_comment_time">0.1.8 /10.01.2021/</div>
+        Komentář do dev sekce a ignorace develope sekce. 😎</div>
+
 </body>
 
 </html>
