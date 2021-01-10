@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="02cfe07a-49a8-4772-9842-0ff2594c9f48" name="Default Changelist" comment="branch &quot;develop&quot; a grid se stylem">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="5cf8c902-149e-46bd-9ea4-a587860b0aec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +21,42 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="dev" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,14 +70,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../PHPonWin/php.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,52 +89,70 @@
       <option name="presentableId" value="Default" />
       <updated>1609678779253</updated>
       <workItem from="1609678780324" duration="472000" />
-      <workItem from="1609734001310" duration="1063000" />
-      <workItem from="1609752424219" duration="359000" />
+      <workItem from="1609706825604" duration="1087000" />
+      <workItem from="1609741897722" duration="7678000" />
+      <workItem from="1610026719307" duration="940000" />
+      <workItem from="1610273295540" duration="1634000" />
     </task>
-    <task id="LOCAL-00001" summary="zatím je přidání dalšího komentáře s popisem postupu. Příště už můžeme zkusit složitější věci (přidání souboru, nebo stylu)">
-      <created>1609733603878</created>
+    <task id="LOCAL-00001" summary="Jeden pridany komentar">
+      <created>1609706944859</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1609733603878</updated>
+      <updated>1609706944859</updated>
     </task>
-    <task id="LOCAL-00002" summary="branch &quot;develop&quot; a grid se stylem">
-      <created>1609752033988</created>
+    <task id="LOCAL-00002" summary="Jeden pridany komentar">
+      <created>1609707851924</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1609752033988</updated>
+      <updated>1609707851924</updated>
     </task>
-    <task id="LOCAL-00003" summary="dodatečný commit v0.0.6">
-      <created>1609752512039</created>
+    <task id="LOCAL-00003" summary="GitIgnore">
+      <created>1609741939600</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1609752512039</updated>
+      <updated>1609741939600</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Martin - zase něco">
+      <created>1609743188424</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609743188424</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Martin - koment 08">
+      <created>1609924725845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609924725845</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -128,39 +160,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="zatím je přidání dalšího komentáře s popisem postupu. Příště už můžeme zkusit složitější věci (přidání souboru, nebo stylu)" />
-    <MESSAGE value="branch &quot;develop&quot; a grid se stylem" />
-    <MESSAGE value="dodatečný commit v0.0.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="dodatečný commit v0.0.6" />
+    <MESSAGE value="Jeden pridany komentar" />
+    <MESSAGE value="GitIgnore" />
+    <MESSAGE value="Martin - zase něco" />
+    <MESSAGE value="Martin - koment 08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Martin - koment 08" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1609749055733">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="540" y="174" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1609749055733" />
-    <state x="667" y="162" key="#PHP" timestamp="1609749058529">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="667" y="162" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1609749058529" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1609749783030">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609749783030" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1609678798019">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609678798019" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1609749939789">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609749939789" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1609752083264">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609752083264" />
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609735072063">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609735072063" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
