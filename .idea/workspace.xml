@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02cfe07a-49a8-4772-9842-0ff2594c9f48" name="Default Changelist" comment="branch &quot;develop&quot; a grid se stylem" />
+    <list default="true" id="02cfe07a-49a8-4772-9842-0ff2594c9f48" name="Default Changelist" comment="branch &quot;develop&quot; a grid se stylem">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609924725845</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Další, dneska 10.1.2021...">
+      <created>1610276490762</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610276490762</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Změna jen v dev 10.1.2021...">
+      <created>1610277344796</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610277344796</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +171,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev" />
+                        <option value="dev1" />
                       </list>
                     </value>
                   </entry>
@@ -173,7 +189,9 @@
     <MESSAGE value="GitIgnore" />
     <MESSAGE value="Martin - zase něco" />
     <MESSAGE value="Martin - koment 08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Martin - koment 08" />
+    <MESSAGE value="Další, dneska 10.1.2021..." />
+    <MESSAGE value="Změna jen v dev 10.1.2021..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Změna jen v dev 10.1.2021..." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
